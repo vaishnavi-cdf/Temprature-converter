@@ -1,0 +1,36 @@
+/* *{
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+} */
+.big-containor{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    /* border: 2px solid green; */
+    /* margin-top: 200px; */
+    height: 900px;
+}
+.containor{
+    border: 2px solid black;
+    background-color: #326699;
+
+
+}
+.box-1{
+    display: flex;
+    justify-content: center;
+    padding-bottom: 10px;
+    height: 45px;
+}
+.box-2{
+    display: flex;
+    justify-content: center;
+    padding-bottom: 10px;
+    height: 45px;
+}
+#submit-button{
+    margin-left: 130px;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
